@@ -30,6 +30,8 @@ Built for the University of Nairobi Faculty of Engineering, yet architected to p
 
 ## 🚀  Quick start
 
+![image](https://github.com/user-attachments/assets/33a649ea-6c8c-4988-b9e0-8a8a32fbfc98)
+
 ### 1.  Clone & set up a virtual env
 ```bash
 git clone https://github.com/your-handle/calib-pm-manager.git
